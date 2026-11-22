@@ -1,0 +1,18 @@
+Product_SKU,Brand,Model_Name,Segment,Standard_MRP,Base_Unit_Cost
+BM-APL-IP15-128,Apple,iPhone 15 (128GB),Flagship,65900,58000
+BM-APL-IP16-128,Apple,iPhone 16 (128GB),Flagship,79900,70500
+BM-APL-IP16P-256,Apple,iPhone 16 Pro (256GB),Flagship,129900,115000
+BM-APL-IP17-128,Apple,iPhone 17 (128GB),Flagship,82900,73000
+BM-SAM-A35-128,Samsung,Galaxy A35 5G,Mid-Range,28999,24500
+BM-SAM-A55-256,Samsung,Galaxy A55 5G,Mid-Range,38999,33000
+BM-SAM-M35-128,Samsung,Galaxy M35 5G,Budget 5G,19999,16800
+BM-SAM-S24FE-128,Samsung,Galaxy S24 FE,Premium,54999,46500
+BM-SAM-S25U-256,Samsung,Galaxy S25 Ultra,Flagship,129999,112000
+BM-OPP-A3P-128,Oppo,Oppo A3 Pro 5G,Budget 5G,17999,14800
+BM-OPP-F27P-256,Oppo,Oppo F27 Pro+ 5G,Mid-Range,27999,23200
+BM-OPP-R12-256,Oppo,Oppo Reno 12 5G,Mid-Range,32999,27500
+BM-VIV-T3-128,Vivo,Vivo T3 5G,Budget 5G,19999,16500
+BM-VIV-V40-256,Vivo,Vivo V40 5G,Mid-Range,34999,29000
+BM-VIV-Y28S-128,Vivo,Vivo Y28s 5G,Budget 5G,14999,12300
+BM-MOT-G85-128,Motorola,Moto G85 5G,Budget 5G,17999,15000
+BM-MOT-E50F-256,Motorola,Moto Edge 50 Fusion,Mid-Range,22999,19200
